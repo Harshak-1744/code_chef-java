@@ -72,9 +72,9 @@ For each test case, output "YES" if Chef is eligible to give the exam, "NO" othe
 
 ## Constraints
 
-- 1 ≤ `T` ≤ 1000
-- 20 ≤ `X` < `Y` ≤ 40
-- 10 ≤ `A` ≤ 50
+- 1 ≤ T ≤ 1000
+- 20 ≤ X < Y ≤ 40
+- 10 ≤ A ≤ 50
 
 ## Example
 
@@ -104,3 +104,51 @@ Explanation:
 - Test case 4: The age of Chef is 15. His age does not satisfy the minimum age limit as 15 < 20. Thus, Chef is not eligible to take the exam.
 
 **Note:** Sample input and output are provided to give you a better understanding of the problem. Ensure that your solution handles edge cases and all possible scenarios.
+
+
+# 3) Squats
+
+## Problem Statement
+
+Somu went to the gym today. He decided to do X sets of squats. Each set consists of 15 squats. Determine the total number of squats that he did today.
+
+## Input Format
+
+The first line contains a single integer T — the number of test cases. Then the test cases follow.
+The first and only line of each test case contains an integer X — the total number of sets of squats that Somu did.
+
+## Output Format
+
+For each test case, output the total number of squats done by Somu.
+
+## Constraints
+
+1 ≤ T ≤ 1000
+1 ≤ X ≤ 10^5
+
+## Examples
+
+Input:
+```
+3
+1
+4
+99
+
+```
+Output:
+```
+15
+60
+1485
+
+```
+
+## Explanation
+
+- Test Case 1: Since he does only 1 set of squats, the total number of squats done by him is 15.
+
+- Test Case 2: Since he does 4 sets of squats, the total number of squats is 15 + 15 + 15 + 15 = 60.
+
+- Test Case 3: Since he does 99 sets of squats, the total number of squats is 99 * 15 = 1485.
+
