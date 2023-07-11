@@ -1,6 +1,6 @@
 # code_chef-java
 
-# Dice Game
+# 1) Dice Game
 
 Chef and Chefina are playing a dice game. In each turn, both of them roll their dice at once. They consider a turn to be good if the sum of the numbers on their dice is greater than 6. Given the numbers Chef and Chefina rolled on their respective dice, determine whether the turn was good or not.
 
