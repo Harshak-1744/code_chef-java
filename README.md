@@ -172,18 +172,20 @@ For each test case, output a single integer on a new line, denoting the minimum 
 
 ## Example
 Input:
+```
 4
 4 2
 8 7
 5 1
 2 1
-
+```
 Output:
+```
 2
 1
 4
 1
-
+```
 ## Explanation
 - Test case 1: The tax threshold is 2, and you earned 4 rupees. You need to invest at least 2 rupees to avoid taxes.
 - Test case 2: The tax threshold is 7, and you earned 8 rupees. You need to invest at least 1 rupee to avoid taxes.
