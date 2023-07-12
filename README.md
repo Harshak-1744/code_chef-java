@@ -152,3 +152,43 @@ Output:
 
 - Test Case 3: Since he does 99 sets of squats, the total number of squats is 99 * 15 = 1485.
 
+# 4) Chef's Tax Exemption Scheme
+
+## Problem Description
+In Chefland, everyone who earns strictly more than Y rupees per year has to pay a tax to Chef. However, Chef has allowed a special scheme where individuals can invest any amount of money and claim exemption for it.
+
+Given the amount X you earned this year and the tax threshold Y, find the minimum amount of money you need to invest to avoid paying taxes.
+
+## Input Format
+- The first line of input contains a single integer T, denoting the number of test cases.
+- Each test case consists of a single line containing two space-separated integers X and Y, representing the amount earned and the tax threshold, respectively.
+
+## Output Format
+For each test case, output a single integer on a new line, denoting the minimum amount you need to invest.
+
+## Constraints
+1 ≤ T ≤ 100
+1 ≤ Y < X ≤ 100
+
+## Example
+Input:
+4
+4 2
+8 7
+5 1
+2 1
+
+Output:
+2
+1
+4
+1
+
+## Explanation
+- Test case 1: The tax threshold is 2, and you earned 4 rupees. You need to invest at least 2 rupees to avoid taxes.
+- Test case 2: The tax threshold is 7, and you earned 8 rupees. You need to invest at least 1 rupee to avoid taxes.
+- Test case 3: The tax threshold is 1, and you earned 5 rupees. You need to invest at least 4 rupees to avoid taxes.
+- Test case 4: The tax threshold is 1, and you earned 2 rupees. You need to invest at least 1 rupee to avoid taxes.
+
+
+
