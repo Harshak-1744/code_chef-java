@@ -192,5 +192,47 @@ Output:
 - Test case 3: The tax threshold is 1, and you earned 5 rupees. You need to invest at least 4 rupees to avoid taxes.
 - Test case 4: The tax threshold is 1, and you earned 2 rupees. You need to invest at least 1 rupee to avoid taxes.
 
+# 5) Water Intake Tracker
+
+This is a simple program that determines whether Chef followed the doctor's advice to drink at least 2000 ml of water each day.
+
+## Input Format
+
+The program takes the following input:
+
+- The number of test cases, T
+- For each test case, the amount of water Chef drank today, X
+
+## Output Format
+
+The program outputs the following:
+
+- For each test case, `YES` if Chef followed the doctor's advice or `NO` if he did not.
+
+## Constraints
+
+The following constraints apply to the input:
+
+- 1 ≤ T ≤ 2000
+- 1 ≤ X ≤ 4000
+
+## Sample Input
+
+```
+3
+2999
+1450
+2000
+```
+
+## Sample Output
+
+```
+YES
+NO
+YES
+```
+## Explanation
+In the above example, Chef followed the doctor's advice in the first and third test cases by drinking at least 2000 ml of water. However, he did not follow the advice in the second test case.
 
 
