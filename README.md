@@ -236,3 +236,60 @@ YES
 In the above example, Chef followed the doctor's advice in the first and third test cases by drinking at least 2000 ml of water. However, he did not follow the advice in the second test case.
 
 
+# 6) MasterChef Ranking Checker
+
+This repository contains a solution for the "MasterChef Ranking Checker" problem. It is written in [programming language], and it helps determine whether a contestant named Chef made it to the top 10 or not based on their current rank.
+
+## Problem Description
+
+Chef is participating in the MasterChef competition and wants to know if he made it to the top 10 contestants. The program takes the current rank of Chef as input and checks whether it is within the top 10 or not. The program should output "YES" if Chef made it to the top 10, and "NO" otherwise.
+
+## Input Format
+
+The input consists of multiple test cases. The first line contains an integer T, representing the number of test cases. Each subsequent line contains a single integer X, representing the current rank of Chef.
+
+## Output Format
+
+For each test case, the program outputs a single line with either "YES" or "NO", indicating whether Chef made it to the top 10 or not.
+
+## Constraints
+
+- 1 ≤ T ≤ 100
+- 1 ≤ X ≤ 100
+
+
+## Example
+
+Input:
+```
+4
+15
+10
+1
+50
+```
+
+Output:
+```
+NO
+YES
+YES
+NO
+```
+## Explanation
+
+- Test case 1:
+Chef's rank is 15, which is greater than 10. Thus, Chef did not make it to the top 10.
+
+- Test case 2:
+Chef's rank is 10, which is equal to 10. Thus, Chef made it to the top 10.
+
+- Test case 3:
+Chef made it to the top 10, as his rank is 1.
+
+- Test case 4:
+Chef did not make it to the top 10 as his rank is 50.
+
+
+
+
