@@ -290,6 +290,52 @@ Chef made it to the top 10, as his rank is 1.
 - Test case 4:
 Chef did not make it to the top 10 as his rank is 50.
 
+# 7) Chef's Biryani Classes
+
+According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for X weeks, and the cost of classes per week is Y coins. Chef wants to know the total amount of money he will have to pay for the classes.
+
+## Input Format
+
+The first line of input contains an integer T, representing the number of test cases. Each test case consists of a single line containing two space-separated integers X and Y, representing the number of weeks Chef needs to attend the classes and the cost of classes per week, respectively.
+
+## Output Format
+
+For each test case, output on a new line the total amount of money that Chef will have to pay.
+
+## Constraints
+
+- 1 ≤ T ≤ 10^4
+- 1 ≤ X, Y ≤ 100
+
+## Example
+
+Input:
+```
+4
+1 10
+1 15
+2 10
+2 15
+```
+
+Output:
+```
+10
+15
+20
+30
+```
+
+## Explanation
+
+- Test case 1: Chef will be required to attend the MasterChef's classes for 1 week and the cost of classes per week is 10 coins. Hence, Chef will have to pay 10 coins in total.
+
+- Test case 2: Chef will be required to attend the MasterChef's classes for 1 week and the cost of classes per week is 15 coins. Hence, Chef will have to pay 15 coins in total.
+
+- Test case 3: Chef will be required to attend the MasterChef's classes for 2 weeks and the cost of classes per week is 10 coins. Hence, Chef will have to pay 20 coins in total.
+
+- Test case 4: Chef will be required to attend the MasterChef's classes for 2 weeks and the cost of classes per week is 15 coins. Hence, Chef will have to pay 30 coins in total.
+
 
 
 
