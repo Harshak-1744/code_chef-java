@@ -336,6 +336,53 @@ Output:
 
 - Test case 4: Chef will be required to attend the MasterChef's classes for 2 weeks and the cost of classes per week is 15 coins. Hence, Chef will have to pay 30 coins in total.
 
+# 8) Chef's Office Trips
+
+Chef wants to become fit, so he decided to walk to the office and return home by walking. The distance between Chef's home and office is X km.
+
+If Chef's office is open on 5 days in a week, the task is to find the total number of kilometers Chef travels through office trips in a week.
+
+## Input Format
+
+The first line of input contains an integer T, representing the number of test cases. Each test case consists of a single line containing a single integer X, representing the distance between Chef's home and office.
+
+## Output Format
+
+For each test case, output the number of kilometers Chef travels through office trips in a week.
+
+## Constraints
+
+- 1 ≤ T ≤ 10
+- 1 ≤ X ≤ 10
+
+## Example
+
+Input:
+```
+4
+1
+3
+7
+10
+```
+
+Output:
+```
+10
+30
+70
+100
+```
+
+## Explanation:
+
+- Test case 1: The office is 1 km away. Thus, to go to the office and come back home, Chef has to walk 2 km in a day. In a week with 5 working days, Chef has to travel 2 * 5 = 10 km in total.
+
+- Test case 2: The office is 3 km away. Thus, to go to the office and come back home, Chef has to walk 6 km in a day. In a week with 5 working days, Chef has to travel 6 * 5 = 30 km in total.
+
+- Test case 3: The office is 7 km away. Thus, to go to the office and come back home, Chef has to walk 14 km in a day. In a week with 5 working days, Chef has to travel 14 * 5 = 70 km in total.
+
+- Test case 4: The office is 10 km away. Thus, to go to the office and come back home, Chef has to walk 20 km in a day. In a week with 5 working days, Chef has to travel 20 * 5 = 100 km in total.
 
 
 
