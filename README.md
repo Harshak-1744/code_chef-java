@@ -384,5 +384,49 @@ Output:
 
 - Test case 4: The office is 10 km away. Thus, to go to the office and come back home, Chef has to walk 20 km in a day. In a week with 5 working days, Chef has to travel 20 * 5 = 100 km in total.
 
+Sure, here's a README file you can use for your GitHub repository:
 
+# 9) Chef's Ludo Game
+
+Chef is playing Ludo and needs to determine whether he can enter a new token into the play based on the number rolled on the die. According to Ludo rules, a player can enter a new token into the game only when they roll a 6 on the die.
+
+## Problem Statement
+
+In this problem, you are given a series of test cases. For each test case, you will be given the number rolled by Chef on the die (X). Your task is to determine whether Chef can enter a new token into the play or not.
+
+## Input Format
+
+The first line of the input contains a single integer T, representing the number of test cases. Then, the test cases follow, where each test case consists of a single integer X, representing the number rolled by Chef on the die.
+
+## Output Format
+
+For each test case, you need to output "YES" if Chef can enter a new token into the play, and "NO" otherwise. The output should be in uppercase.
+
+## Constraints
+
+1 ≤ T ≤ 6\
+1 ≤ X ≤ 6
+
+## Sample Input
+
+```
+3
+1
+6
+3
+```
+
+## Sample Output
+
+```
+NO
+YES
+NO
+```
+
+## Explanation
+
+- Test Case 1: Chef rolled a 1 on the die, so he cannot enter a new token in the play.
+- Test Case 2: Chef rolled a 6 on the die, so he can enter a new token in the play.
+- Test Case 3: Chef rolled a 3 on the die, so he cannot enter a new token in the play.
 
