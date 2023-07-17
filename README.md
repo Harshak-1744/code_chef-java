@@ -554,7 +554,7 @@ Output:
 ```
 ---
 
-# 12) Problem: Chef's Placement Test Score
+# 12) Determine the Score
 
 Chef appeared for a placement test that consists of a problem with exactly 10 test cases. Each test case is worth the same number of points.
 
