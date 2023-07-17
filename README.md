@@ -651,9 +651,7 @@ Output:
 - Test case 4: The drive aims to collect 7 donations and has collected 5 already. Thus, they need to collect 2 more donations to reach the target.
 ---
 
-Certainly! Here's the content for the "README.md" file for the DAIICT College IPL Match Attendance problem:
-
-# 14) [IPL Ticket Rush]()
+# 14) [IPL Ticket Rush](https://github.com/Harshak-1744/code_chef-java/blob/main/IPL%20Ticket%20Rush)
 
 ## Problem Description
 
@@ -697,4 +695,4 @@ Output:
 - Test case 2: There are 5 students who want to go, and 7 tickets are available. So, every one of them will get the tickets.
 - Test case 3: There are 4 students who want to go, and only 1 ticket is available. Hence, 3 students won't be able to get tickets.
 - Test case 4: There are 8 students who want to go, and 8 tickets are available. So, every one of them will get the tickets.
-
+---
