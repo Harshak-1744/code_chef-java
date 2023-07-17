@@ -243,7 +243,7 @@ In the above example, Chef followed the doctor's advice in the first and third t
 
 ---
 
-# 6) Masterchef finals
+# 6) [Masterchef finals](https://github.com/Harshak-1744/code_chef-java/blob/main/Masterchef%20finals)
 
 ## Problem Description
 
