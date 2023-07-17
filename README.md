@@ -345,7 +345,7 @@ Output:
 
 ---
 
-# 8) Chef's Office Trips
+# 8) Fitness
 
 Chef wants to become fit, so he decided to walk to the office and return home by walking. The distance between Chef's home and office is X km.
 
