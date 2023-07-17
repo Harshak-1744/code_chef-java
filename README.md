@@ -345,7 +345,7 @@ Output:
 
 ---
 
-# 8) Fitness
+# 8) [Fitness](https://github.com/Harshak-1744/code_chef-java/blob/main/Fitness)
 
 Chef wants to become fit, so he decided to walk to the office and return home by walking. The distance between Chef's home and office is X km.
 
