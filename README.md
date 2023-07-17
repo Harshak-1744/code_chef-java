@@ -603,3 +603,51 @@ For each test case, output a single integer representing the points scored by Ch
 - Test Case 4: The problem is worth 70 points, and each test case is worth 7 points. Chef passes 0 test cases, so his score will be 7 * 0 = 0 points.
 
 ---
+
+# 13) Donation Drive
+
+## Problem Description
+
+A blood drive aims to collect N number of blood donations. The drive has already collected X donations so far. The task is to find the remaining number of donations needed to reach the target.
+
+## Input Format
+
+The input consists of multiple test cases. The first line of input contains a single integer T, denoting the number of test cases. Each test case is represented by two space-separated integers N and X, where N is the number of required donations and X is the number of collected donations.
+
+## Output Format
+
+For each test case, the program will output on a new line, the remaining number of donations needed to reach the target.
+
+## Constraints
+
+- 1 ≤ T ≤ 200
+- 1 ≤ N ≤ 20
+- 1 ≤ X ≤ N
+
+## Example
+
+Input:
+```
+4
+5 2
+3 3
+5 4
+7 5
+```
+
+Output:
+```
+3
+0
+1
+2
+```
+
+Explanation:
+
+- Test case 1: The drive aims to collect 5 donations and has collected 2 already. Thus, they need to collect 3 more donations to reach the target.
+- Test case 2: The drive aims to collect 3 donations and has collected 3 already. Thus, they need to collect no more donations to reach the target.
+- Test case 3: The drive aims to collect 5 donations and has collected 4 already. Thus, they need to collect 1 more donation to reach the target.
+- Test case 4: The drive aims to collect 7 donations and has collected 5 already. Thus, they need to collect 2 more donations to reach the target.
+---
+
