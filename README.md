@@ -651,3 +651,50 @@ Output:
 - Test case 4: The drive aims to collect 7 donations and has collected 5 already. Thus, they need to collect 2 more donations to reach the target.
 ---
 
+Certainly! Here's the content for the "README.md" file for the DAIICT College IPL Match Attendance problem:
+
+# 14) [IPL Ticket Rush]()
+
+## Problem Description
+
+A total of N students from the college want to attend the IPL match, while only M tickets are available for the match. The task is to determine how many students won't be able to book tickets.
+
+## Input Format
+
+The input consists of multiple test cases. The first line of input contains a single integer T, denoting the number of test cases. Each test case is represented by two space-separated integers N and M, where N is the number of students who want to go, and M is the total number of tickets available.
+
+## Output Format
+
+For each test case, the program will output on a new line the number of students who won't be able to book tickets.
+
+## Constraints
+
+- 1 ≤ T ≤ 1000
+- 1 ≤ N, M ≤ 10^5
+
+## Example
+
+Input:
+```
+4
+5 3
+5 7
+4 1
+8 8
+```
+
+Output:
+```
+2
+0
+3
+0
+```
+
+## Explanation:
+
+- Test case 1: There are 5 students who want to go, and only 3 tickets are available. Hence, 2 students won't be able to get tickets.
+- Test case 2: There are 5 students who want to go, and 7 tickets are available. So, every one of them will get the tickets.
+- Test case 3: There are 4 students who want to go, and only 1 ticket is available. Hence, 3 students won't be able to get tickets.
+- Test case 4: There are 8 students who want to go, and 8 tickets are available. So, every one of them will get the tickets.
+
