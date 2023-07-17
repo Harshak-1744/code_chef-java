@@ -430,3 +430,54 @@ NO
 - Test Case 2: Chef rolled a 6 on the die, so he can enter a new token in the play.
 - Test Case 3: Chef rolled a 3 on the die, so he cannot enter a new token in the play.
 
+
+# 10) Burger Chef - Maximum Burgers
+
+Chef is fond of burgers and wants to make as many burgers as possible given the number of patties and buns he has. Each burger requires one patty and one bun.
+
+## Problem Statement
+
+Chef has A patties and B buns. Find the maximum number of burgers that Chef can make.
+
+## Input Format
+
+The first line of input will contain an integer T — the number of test cases. Each test case consists of a single line containing two space-separated integers A and B, representing the number of patties and buns, respectively.
+
+## Output Format
+
+For each test case, output the maximum number of burgers that Chef can make.
+
+## Constraints
+
+- 1 ≤ T ≤ 1000
+- 1 ≤ A, B ≤ 10^5
+
+## Example
+
+Input:
+
+```
+4
+2 2
+2 3
+3 2
+23 17
+```
+
+Output:
+
+```
+2
+2
+2
+17
+```
+
+## Explanation:
+
+- Test case 1: Chef has 2 patties and 2 buns, so he can make 2 burgers.
+- Test case 2: Chef has 2 patties and 3 buns. He can make at most 2 burgers by using 2 patties and 2 buns.
+- Test case 3: Chef has 3 patties and 2 buns. He can make at most 2 burgers by using 2 patties and 2 buns.
+- Test case 4: Chef has 23 patties and 17 buns. He can make at most 17 burgers by using 17 patties and 17 buns.
+
+
