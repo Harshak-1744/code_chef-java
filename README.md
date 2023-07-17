@@ -696,3 +696,49 @@ Output:
 - Test case 3: There are 4 students who want to go, and only 1 ticket is available. Hence, 3 students won't be able to get tickets.
 - Test case 4: There are 8 students who want to go, and 8 tickets are available. So, every one of them will get the tickets.
 ---
+Certainly! Below is the content for the "README.md" file for the Chef's Kitchen Working Hours problem:
+
+# 15) Kitchen Timings
+
+## Problem Description
+
+The working hours of Chef's kitchen are from X pm to Y pm, where 1 ≤ X < Y ≤ 12. The task is to find the number of hours Chef works during these hours.
+
+## Input Format
+
+The input consists of multiple test cases. The first line of input contains a single integer T, denoting the number of test cases. Each test case is represented by two space-separated integers X and Y, where X is the starting time of working hours, and Y is the ending time of working hours.
+
+## Output Format
+
+For each test case, the program will output on a new line the number of hours Chef works.
+
+## Constraints
+
+- 1 ≤ T ≤ 100
+- 1 ≤ X < Y ≤ 12
+
+## Example
+
+Input:
+```
+4
+1 2
+3 7
+9 11
+2 10
+```
+
+Output:
+```
+1
+4
+2
+8
+```
+
+## Explanation:
+
+- Test case 1: Chef starts working at 1 pm and works till 2 pm. Thus, he works for 1 hour.
+- Test case 2: Chef starts working at 3 pm and works till 7 pm. Thus, he works for 4 hours.
+- Test case 3: Chef starts working at 9 pm and works till 11 pm. Thus, he works for 2 hours.
+- Test case 4: Chef starts working at 2 pm and works till 10 pm. Thus, he works for 8 hours.
