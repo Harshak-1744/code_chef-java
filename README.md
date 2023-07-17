@@ -441,7 +441,7 @@ NO
 
 ---
 
-# 10) Burger Chef - Maximum Burgers
+# 10) Burgers
 
 Chef is fond of burgers and wants to make as many burgers as possible given the number of patties and buns he has. Each burger requires one patty and one bun.
 
