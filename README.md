@@ -156,7 +156,7 @@ Output:
 
 ---
 
-# 4) Saving Taxes
+# 4) [Saving Taxes](https://github.com/Harshak-1744/code_chef-java/blob/main/Saving_Taxes)
 
 ## Problem Description
 In Chefland, everyone who earns strictly more than Y rupees per year has to pay a tax to Chef. However, Chef has allowed a special scheme where individuals can invest any amount of money and claim exemption for it.
