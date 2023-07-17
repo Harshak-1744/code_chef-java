@@ -98,7 +98,7 @@ NO
 YES
 ```
 
-Explanation:
+## Explanation:
 - Test case 1: The age of Chef is 30. His age satisfies the minimum age limit as 30 ≥ 21. Also, it is less than the upper limit as 30 < 34. Thus, Chef is eligible to take the exam.
 - Test case 2: The age of Chef is 31. His age satisfies the minimum age limit as 31 ≥ 25. But, it is not less than the upper limit as 31 ≠ 31. Thus, Chef is not eligible to take the exam.
 - Test case 3: The age of Chef is 25. His age satisfies the minimum age limit as 25 ≥ 22. Also, it is less than the upper limit as 25 < 29. Thus, Chef is eligible to take the exam.
@@ -643,7 +643,7 @@ Output:
 2
 ```
 
-Explanation:
+## Explanation:
 
 - Test case 1: The drive aims to collect 5 donations and has collected 2 already. Thus, they need to collect 3 more donations to reach the target.
 - Test case 2: The drive aims to collect 3 donations and has collected 3 already. Thus, they need to collect no more donations to reach the target.
