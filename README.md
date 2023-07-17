@@ -554,3 +554,54 @@ Output:
 ```
 499
 ```
+---
+
+# 12) Problem: Chef's Placement Test Score
+
+Chef appeared for a placement test that consists of a problem with exactly 10 test cases. Each test case is worth the same number of points.
+
+For each test case, Chef passes a certain number of test cases among them. The task is to determine Chef's score based on the points he scored in each test case.
+
+## Input Format
+
+- The first line of input contains an integer T, the number of test cases.
+- Each of the following T lines contains two space-separated integers, X and N, where X represents the total points for the problem and N represents the number of test cases passed by Chef's solution.
+
+## Output Format
+
+For each test case, output a single integer representing the points scored by Chef.
+
+## Constraints
+
+- 1 ≤ T ≤ 100 (number of test cases)
+- 10 ≤ X ≤ 200 (total points for the problem)
+- 0 ≤ N ≤ 10 (number of test cases passed by Chef)
+- X is a multiple of 10.
+
+## Sample Input
+
+```
+4
+10 3
+100 10
+130 4
+70 0
+```
+
+## Sample Output
+
+```
+3
+100
+52
+0
+```
+
+## Explanation
+
+- Test Case 1: The problem is worth 10 points, and since there are 10 test cases, each test case is worth 1 point. Chef passes 3 test cases, so his score will be 1 * 3 = 3 points.
+- Test Case 2: The problem is worth 100 points, and each test case is worth 10 points. Chef passes all 10 test cases, so his score will be 10 * 10 = 100 points.
+- Test Case 3: The problem is worth 130 points, and each test case is worth 13 points. Chef passes 4 test cases, so his score will be 13 * 4 = 52 points.
+- Test Case 4: The problem is worth 70 points, and each test case is worth 7 points. Chef passes 0 test cases, so his score will be 7 * 0 = 0 points.
+
+---
