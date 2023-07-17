@@ -48,7 +48,7 @@ YES
 
 ---
 
-# 2) Chef's Exam Eligibility
+# 2) Age Limit
 
 ## Problem Statement
 
