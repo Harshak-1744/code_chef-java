@@ -198,7 +198,7 @@ Output:
 
 ---
 
-# 5) Water Consumption
+# 5) [Water Consumption](https://github.com/Harshak-1744/code_chef-java/blob/main/Water%20Consumption)
 
 Recently, Chef visited his doctor. The doctor advised Chef to drink at least 2000 ml of water each day. Chef drank X ml of water today. Determine if Chef followed the doctor's advice or not.
 
