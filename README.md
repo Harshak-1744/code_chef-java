@@ -554,7 +554,7 @@ Output:
 ```
 ---
 
-# 12) Determine the Score
+# 12) [Determine the Score](https://github.com/Harshak-1744/code_chef-java/blob/main/Determine%20the%20Score)
 
 Chef appeared for a placement test that consists of a problem with exactly 10 test cases. Each test case is worth the same number of points.
 
