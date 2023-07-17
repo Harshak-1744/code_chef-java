@@ -441,7 +441,7 @@ NO
 
 ---
 
-# 10) Burgers
+# 10) [Burgers](https://github.com/Harshak-1744/code_chef-java/blob/main/Burgers)
 
 Chef is fond of burgers and wants to make as many burgers as possible given the number of patties and buns he has. Each burger requires one patty and one bun.
 
