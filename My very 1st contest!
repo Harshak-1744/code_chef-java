@@ -1,0 +1,19 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		Scanner sc = new Scanner(System.in);
+		int N = sc.nextInt();
+		int A = sc.nextInt();
+		int B = sc.nextInt();
+		
+		int res = N-A;
+		System.out.print(res+" ");
+		int res1 = res - B;
+		System.out.print(res1);
+	}
+}
