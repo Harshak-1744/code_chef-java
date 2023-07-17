@@ -108,7 +108,7 @@ YES
 
 ---
 
-# 3) Squats
+# 3) [Squats](https://github.com/Harshak-1744/code_chef-java/blob/main/Squats)
 
 ## Problem Statement
 
