@@ -1,0 +1,24 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class PlacementTestScore
+{
+    public static void main (String[] args) throws java.lang.Exception
+    {
+        // your code goes here
+        Scanner sc = new Scanner(System.in);
+        int testCases = sc.nextInt();
+        for(int t = 1; t <= testCases; t++)
+        {
+            int totalPoints = sc.nextInt();
+            int passedTestCases = sc.nextInt();
+            
+            int pointsPerTestCase = totalPoints / 10;
+            
+            int chefScore = pointsPerTestCase * passedTestCases;
+            
+            System.out.println(chefScore);
+        }
+    }
+}
