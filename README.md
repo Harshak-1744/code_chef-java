@@ -198,9 +198,9 @@ Output:
 
 ---
 
-# 5) Water Intake Tracker
+# 5) Water Consumption
 
-This is a simple program that determines whether Chef followed the doctor's advice to drink at least 2000 ml of water each day.
+Recently, Chef visited his doctor. The doctor advised Chef to drink at least 2000 ml of water each day. Chef drank X ml of water today. Determine if Chef followed the doctor's advice or not.
 
 ## Input Format
 
