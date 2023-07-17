@@ -1,0 +1,29 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+    public static void main (String[] args) throws java.lang.Exception
+    {
+        // your code goes here
+        Scanner scanner = new Scanner(System.in);
+        int testCases = scanner.nextInt();
+        for(int t = 1; t <= testCases; t++)
+        {
+            int totalStudents = scanner.nextInt();
+            int availableTickets = scanner.nextInt();
+            
+            int remainingStudents = totalStudents - availableTickets;
+            
+            if(availableTickets >= totalStudents)
+            {
+                System.out.println(0);
+            }
+            else 
+            {
+                System.out.println(remainingStudents);
+            }
+        }
+    }
+}
