@@ -297,7 +297,7 @@ Chef did not make it to the top 10 as his rank is 50.
 
 ---
 
-# 7) Biryani Classes
+# 7) [Biryani Classes](https://github.com/Harshak-1744/code_chef-java/blob/main/Biryani%20classes)
 
 According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for X weeks, and the cost of classes per week is Y coins. Chef wants to know the total amount of money he will have to pay for the classes.
 
