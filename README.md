@@ -156,7 +156,7 @@ Output:
 
 ---
 
-# 4) Chef's Tax Exemption Scheme
+# 4) Saving Taxes
 
 ## Problem Description
 In Chefland, everyone who earns strictly more than Y rupees per year has to pay a tax to Chef. However, Chef has allowed a special scheme where individuals can invest any amount of money and claim exemption for it.
