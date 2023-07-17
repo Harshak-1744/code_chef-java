@@ -46,6 +46,7 @@ YES
 
 **Note:** The problem statement has been formatted into a readable structure and all the necessary details have been included.
 
+---
 
 # 2) Chef's Exam Eligibility
 
@@ -105,6 +106,7 @@ Explanation:
 
 **Note:** Sample input and output are provided to give you a better understanding of the problem. Ensure that your solution handles edge cases and all possible scenarios.
 
+---
 
 # 3) Squats
 
@@ -152,6 +154,8 @@ Output:
 
 - Test Case 3: Since he does 99 sets of squats, the total number of squats is 99 * 15 = 1485.
 
+---
+
 # 4) Chef's Tax Exemption Scheme
 
 ## Problem Description
@@ -191,6 +195,8 @@ Output:
 - Test case 2: The tax threshold is 7, and you earned 8 rupees. You need to invest at least 1 rupee to avoid taxes.
 - Test case 3: The tax threshold is 1, and you earned 5 rupees. You need to invest at least 4 rupees to avoid taxes.
 - Test case 4: The tax threshold is 1, and you earned 2 rupees. You need to invest at least 1 rupee to avoid taxes.
+
+---
 
 # 5) Water Intake Tracker
 
@@ -235,6 +241,7 @@ YES
 ## Explanation
 In the above example, Chef followed the doctor's advice in the first and third test cases by drinking at least 2000 ml of water. However, he did not follow the advice in the second test case.
 
+---
 
 # 6) MasterChef Ranking Checker
 
@@ -290,6 +297,8 @@ Chef made it to the top 10, as his rank is 1.
 - Test case 4:
 Chef did not make it to the top 10 as his rank is 50.
 
+---
+
 # 7) Chef's Biryani Classes
 
 According to a recent survey, Biryani is the most ordered food. Chef wants to learn how to make world-class Biryani from a MasterChef. Chef will be required to attend the MasterChef's classes for X weeks, and the cost of classes per week is Y coins. Chef wants to know the total amount of money he will have to pay for the classes.
@@ -335,6 +344,8 @@ Output:
 - Test case 3: Chef will be required to attend the MasterChef's classes for 2 weeks and the cost of classes per week is 10 coins. Hence, Chef will have to pay 20 coins in total.
 
 - Test case 4: Chef will be required to attend the MasterChef's classes for 2 weeks and the cost of classes per week is 15 coins. Hence, Chef will have to pay 30 coins in total.
+
+---
 
 # 8) Chef's Office Trips
 
@@ -384,7 +395,7 @@ Output:
 
 - Test case 4: The office is 10 km away. Thus, to go to the office and come back home, Chef has to walk 20 km in a day. In a week with 5 working days, Chef has to travel 20 * 5 = 100 km in total.
 
-Sure, here's a README file you can use for your GitHub repository:
+---
 
 # 9) Chef's Ludo Game
 
@@ -430,6 +441,7 @@ NO
 - Test Case 2: Chef rolled a 6 on the die, so he can enter a new token in the play.
 - Test Case 3: Chef rolled a 3 on the die, so he cannot enter a new token in the play.
 
+---
 
 # 10) Burger Chef - Maximum Burgers
 
@@ -479,5 +491,66 @@ Output:
 - Test case 2: Chef has 2 patties and 3 buns. He can make at most 2 burgers by using 2 patties and 2 buns.
 - Test case 3: Chef has 3 patties and 2 buns. He can make at most 2 burgers by using 2 patties and 2 buns.
 - Test case 4: Chef has 23 patties and 17 buns. He can make at most 17 burgers by using 17 patties and 17 buns.
+---
 
+# 11) CodeChef Practice Problems - Un-attempted Problems
 
+## Problem Statement
+
+CodeChef recently revamped its practice page to make it easier for users to identify the next problems they should solve by introducing some new features:
+- Recent Contest Problems - contains only problems from the last 2 contests
+- Separate Un-Attempted, Attempted, and All tabs
+- Problem Difficulty Rating - the Recommended dropdown menu has various difficulty ranges so that you can attempt the problems most suited to your experience
+- Popular Topics and Tags
+
+Our Chef is currently practicing on CodeChef and is a beginner. The count of ‘All Problems’ in the Beginner section is X. Our Chef has already ‘Attempted’ Y problems among them. How many problems are yet ‘Un-attempted’?
+
+## Input Format
+
+The first and only line of input contains two space-separated integers X and Y — the count of 'All problems' in the Beginner's section and the count of Chef's 'Attempted' problems, respectively.
+
+## Output Format
+
+Output a single integer in a single line — the number of problems that are yet 'Un-attempted'
+
+## Constraints
+
+1 ≤ X ≤ 1000
+1 ≤ Y ≤ X
+
+## Examples
+
+Input:
+```
+10 4
+```
+Output: 
+```
+6
+```
+
+Input: 
+```
+10 10
+```
+Output: 
+```
+0
+```
+
+Input: 
+```
+1000 990
+```
+Output: 
+```
+10
+```
+Input: 
+```
+500 1
+```
+Output: 
+```
+499
+```
