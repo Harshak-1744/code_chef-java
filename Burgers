@@ -1,0 +1,21 @@
+import java.util.Scanner;
+
+class Codechef 
+{
+    public static void main(String[] args) throws java.lang.Exception 
+      {  
+        Scanner sc = new Scanner(System.in);
+        int T = sc.nextInt();
+
+        for (int i = 1; i <= T; i++) {
+            int patties = sc.nextInt();
+            int buns = sc.nextInt();
+
+            if (patties > buns) {
+                System.out.println(buns);
+            } else {
+                System.out.println(patties);
+            }
+        }
+    }
+}
