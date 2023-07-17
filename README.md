@@ -243,9 +243,7 @@ In the above example, Chef followed the doctor's advice in the first and third t
 
 ---
 
-# 6) MasterChef Ranking Checker
-
-This repository contains a solution for the "MasterChef Ranking Checker" problem. It is written in [programming language], and it helps determine whether a contestant named Chef made it to the top 10 or not based on their current rank.
+# 6) Masterchef finals
 
 ## Problem Description
 
