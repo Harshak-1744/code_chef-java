@@ -395,7 +395,7 @@ Output:
 
 ---
 
-# 9) Chef's Ludo Game
+# 9) [Chef's Ludo Game](https://github.com/Harshak-1744/code_chef-java/blob/main/Chef%20Plays%20Ludo)
 
 Chef is playing Ludo and needs to determine whether he can enter a new token into the play based on the number rolled on the die. According to Ludo rules, a player can enter a new token into the game only when they roll a 6 on the die.
 
