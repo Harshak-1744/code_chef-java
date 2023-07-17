@@ -491,7 +491,7 @@ Output:
 - Test case 4: Chef has 23 patties and 17 buns. He can make at most 17 burgers by using 17 patties and 17 buns.
 ---
 
-# 11) CodeChef Practice Problems - Un-attempted Problems
+# 11) How many unattempted problems
 
 ## Problem Statement
 
