@@ -1,0 +1,32 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		Scanner sc = new Scanner(System.in);
+		int A = sc.nextInt();
+		int B = sc.nextInt();
+		int X = sc.nextInt();
+		int Y = sc.nextInt();
+		
+		int Messi = (A*2+B);
+		int Ronaldo = (X*2+Y);
+		
+		if(Messi > Ronaldo)
+		{
+		    System.out.println("Messi");
+		}
+		else if(Messi < Ronaldo) 
+		{
+		    System.out.println("Ronaldo");
+		}
+		else 
+		{
+		    System.out.println("Equal");
+		}
+		
+	}
+}
