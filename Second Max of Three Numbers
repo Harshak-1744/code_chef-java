@@ -1,0 +1,57 @@
+import java.util.Scanner;
+
+class Main 
+{
+    public static void main(String[] args) throws java.lang.Exception 
+      {
+        Scanner sc = new Scanner(System.in);
+        int T = sc.nextInt();
+        for (int i = 1; i <= T; i++) 
+        {
+            int X = sc.nextInt();
+            int Y = sc.nextInt();
+            int Z = sc.nextInt();
+
+            int h, s, t;
+
+            if (X > Y && X > Z) 
+            {
+                h = X;
+                if (Y > Z) 
+              {
+                    s = Y;
+                    t = Z;
+                } else {
+                    s = Z;
+                    t = Y;
+                }
+            } 
+            else if (Y > X && Y > Z) 
+            {
+                h = Y;
+                if (X > Z) 
+              {
+                    s = X;
+                    t = Z;
+                } else 
+                  {
+                    s = Z;
+                    t = X;
+                  }
+            } 
+            else 
+              {
+                h = Z;
+                if (X > Y) 
+                {
+                    s = X;
+                    t = Y;
+                } else {
+                    s = Y;
+                    t = X;
+                }
+            }
+            System.out.println(s);
+        }
+    }
+}
