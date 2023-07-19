@@ -1,0 +1,35 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef
+{
+	public static void main (String[] args) throws java.lang.Exception
+	{
+		Scanner sc = new Scanner(System.in);
+		int T = sc.nextInt();
+		for(int i = 1;i<=T;i++)
+		{
+		    int X = sc.nextInt();
+		    int Y = sc.nextInt();
+		    
+		    int candy = 5*Y;
+		    int chocolate = 2*X;
+		    
+		    if(candy > chocolate)
+		    {
+		        System.out.println("Candy");
+		    }
+		    else if(chocolate > candy)
+		    {
+		        System.out.println("Chocolate");
+		    }
+		    else 
+		    {
+		        System.out.println("Either");
+		    }
+		    
+		    
+		}
+	}
+}
