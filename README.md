@@ -792,4 +792,58 @@ For each test case, output on a new line, the amount of money you get after tax 
 - Test case 3: Your total income is 101 rupees, which is greater than 100 rupees. Thus, a tax of 10 rupees would be deducted, and you get 101 - 10 = 91 rupees.
 - Test case 4: Your total income is 100 rupees, which is equal to 100 rupees. Thus, no tax would be deducted, and you get 100 rupees.
 
+# Reach on Time
+
+## Problem Description
+
+Chef has recently moved into an apartment. It takes 30 minutes for Chef to reach the office from the apartment.
+
+Chef left for the office X minutes before Chef was supposed to reach. Determine whether or not Chef will be able to reach on time.
+
+## Input Format
+
+The first line of input will contain a single integer T, denoting the number of test cases.
+Each test case consists of a single integer X.
+
+## Output Format
+
+For each test case, output "YES" if Chef will reach on time, "NO" otherwise. The output is case-insensitive. Thus, the strings "YES," "yes," "yeS," and "Yes" are all considered the same.
+
+## Constraints
+
+1 ≤ T ≤ 60
+1 ≤ X ≤ 60
+
+## Sample Input
+
+```
+6
+30
+60
+14
+29
+31
+42
+```
+
+## Sample Output
+
+```
+YES
+YES
+NO
+NO
+YES
+YES
+```
+
+## Explanation
+
+- Test case 1: Chef leaves 30 minutes before he is supposed to reach, so he will reach the office exactly on time since it takes 30 minutes to commute.
+
+- Test case 2: Chef will reach 30 minutes early.
+
+- Test case 3: Chef will reach 16 minutes late.
+
+---
 
