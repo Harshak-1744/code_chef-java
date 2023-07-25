@@ -1057,3 +1057,43 @@ For each test case, output on a new line the maximum number of people that can t
 - Test case 4: King has 8 cars that seat 5 each and 8 cars that seat 7 each. So, 8 * 5 + 8 * 7 = 96 people can travel together.
 
 ---
+# Paying with Rs. 500 Notes
+
+## Problem Description
+
+Chef had collected N notes of Rs. 2000 to pay his total college fees. However, the government banned Rs. 2000 notes.
+
+Chef wants to pay the same amount using Rs. 500 notes only. Find the number of notes Chef needs.
+
+## Input Format
+
+Each test case consists of a single integer N - the number of notes of Rs. 2000 that Chef has collected.
+
+## Output Format
+
+Output a single integer - the number of Rs. 500 notes needed.
+
+## Constraints
+
+1 ≤ N ≤ 100
+
+## Sample Input
+
+```
+4
+16
+```
+
+## Sample Output
+
+```
+16
+```
+
+## Explanation
+
+- Test case 1: 4 notes of Rs. 2000 make a total of 4 * 2000 = 8000 rupees. This is equivalent to 16 notes of Rs. 500.
+
+- Test case 2: 16 notes of Rs. 2000 make a total of 16 * 2000 = 32000 rupees. This is equivalent to 64 notes of Rs. 500.
+
+---
