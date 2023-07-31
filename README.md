@@ -56,7 +56,7 @@
 
 # 28) [Candy Division]()
 
-29)Chef On Date
+# 29) [Chef On Date]()
 30)Parity
 31)Battery Health
 32)Counting Words
