@@ -1,24 +1,24 @@
 # code_chef-java
 
-# 1) [Good Turn](https://github.com/Harshak-1744/code_chef-java/blob/main/Good%20Turn)
+## 1) [Good Turn](https://github.com/Harshak-1744/code_chef-java/blob/main/Good%20Turn)
 
-# 2) [Age Limit](https://github.com/Harshak-1744/code_chef-java/blob/main/Age%20Limit)
+## 2) [Age Limit](https://github.com/Harshak-1744/code_chef-java/blob/main/Age%20Limit)
 
-# 3) [Squats](https://github.com/Harshak-1744/code_chef-java/blob/main/Squats)
+## 3) [Squats](https://github.com/Harshak-1744/code_chef-java/blob/main/Squats)
 
-# 4) [Saving Taxes](https://github.com/Harshak-1744/code_chef-java/blob/main/Saving_Taxes)
+## 4) [Saving Taxes](https://github.com/Harshak-1744/code_chef-java/blob/main/Saving_Taxes)
 
-# 5) [Water Consumption](https://github.com/Harshak-1744/code_chef-java/blob/main/Water%20Consumption)
+## 5) [Water Consumption](https://github.com/Harshak-1744/code_chef-java/blob/main/Water%20Consumption)
 
-# 6) [Masterchef finals](https://github.com/Harshak-1744/code_chef-java/blob/main/Masterchef%20finals)
+## 6) [Masterchef finals](https://github.com/Harshak-1744/code_chef-java/blob/main/Masterchef%20finals)
 
-# 7) [Biryani Classes](https://github.com/Harshak-1744/code_chef-java/blob/main/Biryani%20classes)
+## 7) [Biryani Classes](https://github.com/Harshak-1744/code_chef-java/blob/main/Biryani%20classes)
 
-# 8) [Fitness](https://github.com/Harshak-1744/code_chef-java/blob/main/Fitness)
+## 8) [Fitness](https://github.com/Harshak-1744/code_chef-java/blob/main/Fitness)
 
-# 9) [Chef's Ludo Game](https://github.com/Harshak-1744/code_chef-java/blob/main/Chef%20Plays%20Ludo)
+## 9) [Chef's Ludo Game](https://github.com/Harshak-1744/code_chef-java/blob/main/Chef%20Plays%20Ludo)
 
-# 10) [Burgers](https://github.com/Harshak-1744/code_chef-java/blob/main/Burgers)
+## 10) [Burgers](https://github.com/Harshak-1744/code_chef-java/blob/main/Burgers)
 
 # 11) [How many unattempted problems](https://github.com/Harshak-1744/code_chef-java/blob/main/How%20many%20unattempted%20problems)
 
