@@ -2,51 +2,6 @@
 
 # 1) [Good Turn](https://github.com/Harshak-1744/code_chef-java/blob/main/Good%20Turn)
 
-Chef and Chefina are playing a dice game. In each turn, both of them roll their dice at once. They consider a turn to be good if the sum of the numbers on their dice is greater than 6. Given the numbers Chef and Chefina rolled on their respective dice, determine whether the turn was good or not.
-
-## Input Format
-
-- The first line of the input contains a single integer T, denoting the number of test cases.
-- Each test case consists of two space-separated integers X and Y, representing the numbers Chef and Chefina got on their respective dice.
-
-## Output Format
-
-For each test case, print "YES" if the turn was good, and "NO" otherwise, on a new line. The output can be in uppercase or lowercase. That is, the strings "NO", "no", "nO", and "No" will be treated as equivalent.
-
-## Constraints
-
-- 1 ≤ T ≤ 100
-- 1 ≤ X, Y ≤ 6
-
-## Sample Input
-
-```
-4
-1 4
-3 4
-4 2
-2 6
-```
-
-## Sample Output
-
-```
-NO
-YES
-NO
-YES
-```
-
-## Explanation
-
-- Test case 1: The sum of numbers on the dice is 1 + 4 = 5, which is smaller than 6. Thus, the turn is not good.
-- Test case 2: The sum of numbers on the dice is 3 + 4 = 7, which is greater than 6. Thus, the turn is good.
-- Test case 3: The sum of numbers on the dice is 4 + 2 = 6, which is equal to 6. Thus, the turn is not good.
-- Test case 4: The sum of numbers on the dice is 2 + 6 = 8, which is greater than 6. Thus, the turn is good.
-
-**Note:** The problem statement has been formatted into a readable structure and all the necessary details have been included.
-
----
 
 # 2) [Age Limit](https://github.com/Harshak-1744/code_chef-java/blob/main/Age%20Limit)
 
@@ -1098,55 +1053,6 @@ Output a single integer - the number of Rs. 500 notes needed.
 
 ---
 # Best of Two
-
-## Problem Description
-
-Chef took an examination two times. In the first attempt, he scored X marks, while in the second attempt, he scored Y marks. According to the rules of the examination, the best score out of the two attempts will be considered as the final score.
-
-Determine the final score of the Chef.
-
-## Input Format
-
-The first line contains a single integer T — the number of test cases. Then the test cases follow.
-The first line of each test case contains two integers X and Y — the marks scored by Chef in the first attempt and second attempt, respectively.
-
-## Output Format
-
-For each test case, output the final score of Chef in the examination.
-
-## Constraints
-
-1 ≤ T ≤ 1000
-0 ≤ X, Y ≤ 100
-
-## Sample Input
-
-```
-4
-40 60
-67 55
-50 50
-1 100
-```
-
-## Sample Output
-
-```
-60
-67
-50
-100
-```
-
-## Explanation
-
-- Test Case 1: The best score out of the two attempts is 60.
-
-- Test Case 2: The best score out of the two attempts is 67.
-
-- Test Case 3: The best score out of the two attempts is 50.
-
-- Test Case 4: The best score out of the two attempts is 100.
 
 ---
 
