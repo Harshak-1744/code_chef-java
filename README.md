@@ -22,7 +22,7 @@
 
 ## 11) [How many unattempted problems](https://github.com/Harshak-1744/code_chef-java/blob/main/How%20many%20unattempted%20problems)
 
-# 12) [Determine the Score](https://github.com/Harshak-1744/code_chef-java/blob/main/Determine%20the%20Score)
+## 12) [Determine the Score](https://github.com/Harshak-1744/code_chef-java/blob/main/Determine%20the%20Score)
 
 # 13) [Donation Drive](https://github.com/Harshak-1744/code_chef-java/blob/main/Donation%20Drive)
 
