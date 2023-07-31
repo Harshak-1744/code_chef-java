@@ -51,7 +51,8 @@
 # 25) [Roller Coaster]()
 
 # 26) [CodeChef Learn Problem Solving]()
-27)Chef and Brain Speed
+
+# 27) [Chef and Brain Speed]()
 28)Candy Division
 29)Chef On Date
 30)Parity
