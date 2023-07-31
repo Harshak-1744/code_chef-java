@@ -89,5 +89,5 @@
 58)Easy Pronunciation
 59)Programming Languages
 60)ATM Machine
-61)Passes for Fair
+# 61) [Passes for Fair]()
 # 62) [Read Pages]() 
