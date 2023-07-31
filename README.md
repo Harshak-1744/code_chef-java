@@ -62,31 +62,35 @@
 
 # 31) [Battery Health]()
 
-32)Counting Words
-33)Total Prize Money
-34)Tom and Jerry Chase
-35)Ageing
-36)Right There
-37)Bull or Bear
-38)Second Max of Three Numbers
-39)Four Tickets
-40)Chef and Donation
-41)Chairs Requirement
-42)Number of Credits
-43)Sum it
-44)Get Subscription
-45)Messi vs Ronaldo
-46)Enough Space
-47)Waiting Time
-48)Just One More Episode
-49)Tasty Decisions
-50)Mana Points
-51)Rain in Chefland
-52)Equal Distribution
-53)Bidding
-54)Overspeeding Fine
-55)Chess Time
-56)Max minus Min
+# 29) [Chef On Date]()
+# 30) [Parity]()
+# 31) [Battery Health]()
+# 32) [Counting Words]()
+# 33) [Total Prize Money]()
+# 34) [Tom and Jerry Chase]()
+# 35) [Ageing]()
+# 36) [Right There]()
+# 37) [Bull or Bear]()
+# 38) [Second Max of Three Numbers]()
+# 39) [Four Tickets]()
+# 40) [Chef and Donation]()
+# 41) [Chairs Requirement]()
+# 42) [Number of Credits]()
+# 43) [Sum it]()
+# 44) [Get Subscription]()
+# 45) [Messi vs Ronaldo]()
+# 46) [Enough Space]()
+# 47) [Waiting Time]()
+# 48) [Just One More Episode]()
+# 49) [Tasty Decisions]()
+# 50) [Mana Points]()
+# 51) [Rain in Chefland]()
+# 52) [Equal Distribution]()
+# 53) [Bidding]()
+# 54) [Overspeeding Fine]()
+# 55) [Chess Time]()
+# 56) [Max minus Min]()
+
 # 57) [Learning SQL]()
 # 58) [Easy Pronunciation]()
 # 59) [Programming Languages]()
