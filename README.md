@@ -20,7 +20,7 @@
 
 ## 10) [Burgers](https://github.com/Harshak-1744/code_chef-java/blob/main/Burgers)
 
-# 11) [How many unattempted problems](https://github.com/Harshak-1744/code_chef-java/blob/main/How%20many%20unattempted%20problems)
+## 11) [How many unattempted problems](https://github.com/Harshak-1744/code_chef-java/blob/main/How%20many%20unattempted%20problems)
 
 # 12) [Determine the Score](https://github.com/Harshak-1744/code_chef-java/blob/main/Determine%20the%20Score)
 
