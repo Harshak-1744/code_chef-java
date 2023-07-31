@@ -85,8 +85,8 @@
 54)Overspeeding Fine
 55)Chess Time
 56)Max minus Min
-57)Learning SQL
-58)Easy Pronunciation
+# 57) [Learning SQL]()
+# 58) [Easy Pronunciation]()
 # 59) [Programming Languages]()
 # 60) [ATM Machine]()
 # 61) [Passes for Fair]()
