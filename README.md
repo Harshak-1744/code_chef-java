@@ -16,7 +16,7 @@
 ## 14) [IPL Ticket Rush](https://github.com/Harshak-1744/code_chef-java/blob/main/IPL%20Ticket%20Rush)
 ## 15) [Kitchen Timings](https://github.com/Harshak-1744/code_chef-java/blob/main/Kitchen%20Timings)
 ## 16) [Tax in Chefland](https://github.com/Harshak-1744/code_chef-java/blob/main/Tax%20in%20Chefland)
-## 17) [Reach on Time]()
+## 17) [Reach on Time](https://github.com/Harshak-1744/code_chef-java/blob/main/Reach%20on%20Time)
 ## 18) [Audible Range]()
 ## 19) [Reach the Target]()
 ## 20) [Who is Taller]()
