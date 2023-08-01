@@ -17,7 +17,7 @@
 ## 15) [Kitchen Timings](https://github.com/Harshak-1744/code_chef-java/blob/main/Kitchen%20Timings)
 ## 16) [Tax in Chefland](https://github.com/Harshak-1744/code_chef-java/blob/main/Tax%20in%20Chefland)
 ## 17) [Reach on Time](https://github.com/Harshak-1744/code_chef-java/blob/main/Reach%20on%20Time)
-## 18) [Audible Range]()
+## 18) [Audible Range](https://github.com/Harshak-1744/code_chef-java/blob/main/Audible%20Range)
 ## 19) [Reach the Target]()
 ## 20) [Who is Taller]()
 ## 21) [Tour of King]()
