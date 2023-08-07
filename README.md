@@ -29,7 +29,7 @@
 ## 27) [Chef and Brain Speed](https://github.com/Harshak-1744/code_chef-java/blob/main/Chef%20and%20Brain%20Speed)
 ## 28) [Candy Division](https://github.com/Harshak-1744/code_chef-java/blob/main/Candy%20Division)
 ## 29) [Chef On Date](https://github.com/Harshak-1744/code_chef-java/blob/main/Chef%20On%20Date)
-## 30) [Parity]()
+## 30) [Parity](https://github.com/Harshak-1744/code_chef-java/blob/main/Parity)
 ## 31) [Battery Health]()
 ## 32) [Counting Words]()
 ## 33) [Total Prize Money]()
