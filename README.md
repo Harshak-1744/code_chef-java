@@ -39,7 +39,7 @@
 ## 37) [Bull or Bear](https://github.com/Harshak-1744/code_chef-java/blob/main/Bull%20or%20Bear)
 ## 38) [Second Max of Three Numbers](https://github.com/Harshak-1744/code_chef-java/blob/main/Second%20Max%20of%20Three%20Numbers)
 ## 39) [Four Tickets](https://github.com/Harshak-1744/code_chef-java/blob/main/Four%20Tickets)
-## 40) [Chef and Donation]()
+## 40) [Chef and Donation](https://github.com/Harshak-1744/code_chef-java/blob/main/Chef%20and%20Donation)
 ## 41) [Chairs Requirement]()
 ## 42) [Number of Credits]()
 ## 43) [Sum it]()
