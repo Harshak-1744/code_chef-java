@@ -55,7 +55,7 @@
 ## 53) [Bidding](https://github.com/Harshak-1744/code_chef-java/blob/main/Bidding)
 ## 54) [Overspeeding Fine](https://github.com/Harshak-1744/code_chef-java/blob/main/Overspeeding%20Fine)
 ## 55) [Chess Time](https://github.com/Harshak-1744/code_chef-java/blob/main/Chess%20Time)
-## 56) [Max minus Min]()
+## 56) [Max minus Min](https://github.com/Harshak-1744/code_chef-java/blob/main/Max%20minus%20Min)
 ## 57) [Learning SQL]()
 ## 58) [Easy Pronunciation]()
 ## 59) [Programming Languages]()
