@@ -50,7 +50,7 @@
 ## 48) [Just One More Episode](https://github.com/Harshak-1744/code_chef-java/blob/main/Just%20One%20More%20Episode)
 ## 49) [Tasty Decisions](https://github.com/Harshak-1744/code_chef-java/blob/main/Tasty%20Decisions)
 ## 50) [Mana Points](https://github.com/Harshak-1744/code_chef-java/blob/main/Mana%20Points)
-## 51) [Rain in Chefland]()
+## 51) [Rain in Chefland](https://github.com/Harshak-1744/code_chef-java/blob/main/Rain%20in%20Chefland)
 ## 52) [Equal Distribution]()
 ## 53) [Bidding]()
 ## 54) [Overspeeding Fine]()
