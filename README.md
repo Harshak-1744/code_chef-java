@@ -46,7 +46,7 @@
 ## 44) [Get Subscription](https://github.com/Harshak-1744/code_chef-java/blob/main/Get%20Subscription)
 ## 45) [Messi vs Ronaldo](https://github.com/Harshak-1744/code_chef-java/blob/main/Messi%20vs%20Ronaldo)
 ## 46) [Enough Space](https://github.com/Harshak-1744/code_chef-java/blob/main/Enough%20Space)
-## 47) [Waiting Time]()
+## 47) [Waiting Time](https://github.com/Harshak-1744/code_chef-java/blob/main/Waiting%20Time)
 ## 48) [Just One More Episode]()
 ## 49) [Tasty Decisions]()
 ## 50) [Mana Points]()
