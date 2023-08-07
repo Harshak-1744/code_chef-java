@@ -41,7 +41,7 @@
 ## 39) [Four Tickets](https://github.com/Harshak-1744/code_chef-java/blob/main/Four%20Tickets)
 ## 40) [Chef and Donation](https://github.com/Harshak-1744/code_chef-java/blob/main/Chef%20and%20Donation)
 ## 41) [Chairs Requirement](https://github.com/Harshak-1744/code_chef-java/blob/main/Chairs%20Requirement)
-## 42) [Number of Credits]()
+## 42) [Number of Credits](https://github.com/Harshak-1744/code_chef-java/blob/main/Number%20of%20Credits)
 ## 43) [Sum it]()
 ## 44) [Get Subscription]()
 ## 45) [Messi vs Ronaldo]()
