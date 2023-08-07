@@ -36,7 +36,7 @@
 ## 34) [Tom and Jerry Chase](https://github.com/Harshak-1744/code_chef-java/blob/main/Tom%20and%20Jerry%20Chase)
 ## 35) [Ageing](https://github.com/Harshak-1744/code_chef-java/blob/main/Ageing)
 ## 36) [Right There](https://github.com/Harshak-1744/code_chef-java/blob/main/Right%20There)
-## 37) [Bull or Bear]()
+## 37) [Bull or Bear](https://github.com/Harshak-1744/code_chef-java/blob/main/Bull%20or%20Bear)
 ## 38) [Second Max of Three Numbers]()
 ## 39) [Four Tickets]()
 ## 40) [Chef and Donation]()
