@@ -43,7 +43,7 @@
 ## 41) [Chairs Requirement](https://github.com/Harshak-1744/code_chef-java/blob/main/Chairs%20Requirement)
 ## 42) [Number of Credits](https://github.com/Harshak-1744/code_chef-java/blob/main/Number%20of%20Credits)
 ## 43) [Sum it](https://github.com/Harshak-1744/code_chef-java/blob/main/Sum%20it)
-## 44) [Get Subscription]()
+## 44) [Get Subscription](https://github.com/Harshak-1744/code_chef-java/blob/main/Get%20Subscription)
 ## 45) [Messi vs Ronaldo]()
 ## 46) [Enough Space]()
 ## 47) [Waiting Time]()
