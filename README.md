@@ -54,7 +54,7 @@
 ## 52) [Equal Distribution](https://github.com/Harshak-1744/code_chef-java/blob/main/Equal%20Distribution)
 ## 53) [Bidding](https://github.com/Harshak-1744/code_chef-java/blob/main/Bidding)
 ## 54) [Overspeeding Fine](https://github.com/Harshak-1744/code_chef-java/blob/main/Overspeeding%20Fine)
-## 55) [Chess Time]()
+## 55) [Chess Time](https://github.com/Harshak-1744/code_chef-java/blob/main/Chess%20Time)
 ## 56) [Max minus Min]()
 ## 57) [Learning SQL]()
 ## 58) [Easy Pronunciation]()
