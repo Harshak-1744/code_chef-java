@@ -27,7 +27,7 @@
 ## 25) [Roller Coaster](https://github.com/Harshak-1744/code_chef-java/blob/main/Roller%20Coaster)
 ## 26) [CodeChef Learn Problem Solving](https://github.com/Harshak-1744/code_chef-java/blob/main/CodeChef%20Learn%20Problem%20Solving)
 ## 27) [Chef and Brain Speed](https://github.com/Harshak-1744/code_chef-java/blob/main/Chef%20and%20Brain%20Speed)
-## 28) [Candy Division]()
+## 28) [Candy Division](https://github.com/Harshak-1744/code_chef-java/blob/main/Candy%20Division)
 ## 29) [Chef On Date]()
 ## 30) [Parity]()
 ## 31) [Battery Health]()
