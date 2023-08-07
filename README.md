@@ -60,5 +60,5 @@
 ## 58) [Easy Pronunciation](https://github.com/Harshak-1744/code_chef-java/blob/main/Easy%20Pronunciation)
 ## 59) [Programming Languages](https://github.com/Harshak-1744/code_chef-java/blob/main/Programming%20Languages)
 ## 60) [ATM Machine](https://github.com/Harshak-1744/code_chef-java/blob/main/ATM%20Machine)
-## 61) [Passes for Fair]()
+## 61) [Passes for Fair](https://github.com/Harshak-1744/code_chef-java/blob/main/Passes%20for%20Fair)
 ## 62) [Read Pages]() 
