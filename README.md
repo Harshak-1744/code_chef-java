@@ -25,7 +25,7 @@
 ## 23) [Best of Two](https://github.com/Harshak-1744/code_chef-java/blob/main/Best%20of%20Two)
 ## 24) [My very 1st contest](https://github.com/Harshak-1744/code_chef-java/blob/main/My%20very%201st%20contest!)
 ## 25) [Roller Coaster](https://github.com/Harshak-1744/code_chef-java/blob/main/Roller%20Coaster)
-## 26) [CodeChef Learn Problem Solving]()
+## 26) [CodeChef Learn Problem Solving](https://github.com/Harshak-1744/code_chef-java/blob/main/CodeChef%20Learn%20Problem%20Solving)
 ## 27) [Chef and Brain Speed]()
 ## 28) [Candy Division]()
 ## 29) [Chef On Date]()
