@@ -56,7 +56,7 @@
 ## 54) [Overspeeding Fine](https://github.com/Harshak-1744/code_chef-java/blob/main/Overspeeding%20Fine)
 ## 55) [Chess Time](https://github.com/Harshak-1744/code_chef-java/blob/main/Chess%20Time)
 ## 56) [Max minus Min](https://github.com/Harshak-1744/code_chef-java/blob/main/Max%20minus%20Min)
-## 57) [Learning SQL]()
+## 57) [Learning SQL](https://github.com/Harshak-1744/code_chef-java/blob/main/Learning%20SQL)
 ## 58) [Easy Pronunciation]()
 ## 59) [Programming Languages]()
 ## 60) [ATM Machine]()
