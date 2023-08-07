@@ -31,7 +31,7 @@
 ## 29) [Chef On Date](https://github.com/Harshak-1744/code_chef-java/blob/main/Chef%20On%20Date)
 ## 30) [Parity](https://github.com/Harshak-1744/code_chef-java/blob/main/Parity)
 ## 31) [Battery Health](https://github.com/Harshak-1744/code_chef-java/blob/main/Battery%20Health)
-## 32) [Counting Words]()
+## 32) [Counting Words](https://github.com/Harshak-1744/code_chef-java/blob/main/Counting%20Words)
 ## 33) [Total Prize Money]()
 ## 34) [Tom and Jerry Chase]()
 ## 35) [Ageing]()
