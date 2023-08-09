@@ -63,3 +63,4 @@
 ## 61) [Passes for Fair](https://github.com/Harshak-1744/code_chef-java/blob/main/Passes%20for%20Fair)
 ## 62) [Read Pages](https://github.com/Harshak-1744/code_chef-java/blob/main/Read%20Pages) 
 ## 63) [Car Trip](https://github.com/Harshak-1744/code_chef-java/blob/main/Car%20Trip)
+## 64) [Oneful Pairs](https://github.com/Harshak-1744/code_chef-java/blob/main/Oneful%20Pairs)
