@@ -71,3 +71,4 @@
 ## 69) [The Gift](https://github.com/Harshak-1744/code_chef-java/blob/main/The%20Gift)
 ## 70) [Spice Level](https://github.com/Harshak-1744/code_chef-java/blob/main/Spice%20Level)
 ## 71) [Reach Home](https://github.com/Harshak-1744/code_chef-java/blob/main/Reach%20Home)
+## 72) [Donation Rewards](https://github.com/Harshak-1744/code_chef-java/blob/main/Donation%20Rewards)
