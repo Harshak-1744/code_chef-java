@@ -72,3 +72,4 @@
 ## 70) [Spice Level](https://github.com/Harshak-1744/code_chef-java/blob/main/Spice%20Level)
 ## 71) [Reach Home](https://github.com/Harshak-1744/code_chef-java/blob/main/Reach%20Home)
 ## 72) [Donation Rewards](https://github.com/Harshak-1744/code_chef-java/blob/main/Donation%20Rewards)
+## 73) [True and False Paper](https://github.com/Harshak-1744/code_chef-java/blob/main/True%20and%20False%20Paper)
