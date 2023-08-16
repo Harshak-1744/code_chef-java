@@ -76,3 +76,4 @@
 ## 74) [The Cheaper Cab](https://github.com/Harshak-1744/code_chef-java/blob/main/The%20Cheaper%20Cab)
 ## 75) [Rating Improvement](https://github.com/Harshak-1744/code_chef-java/blob/main/Rating%20Improvement)
 ## 76) [Discount](https://github.com/Harshak-1744/code_chef-java/blob/main/Discount)
+## 77) [Height of Rationals](https://github.com/Harshak-1744/code_chef-java/blob/main/Height%20of%20Rationals)
