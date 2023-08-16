@@ -74,3 +74,4 @@
 ## 72) [Donation Rewards](https://github.com/Harshak-1744/code_chef-java/blob/main/Donation%20Rewards)
 ## 73) [True and False Paper](https://github.com/Harshak-1744/code_chef-java/blob/main/True%20and%20False%20Paper)
 ## 74) [The Cheaper Cab](https://github.com/Harshak-1744/code_chef-java/blob/main/The%20Cheaper%20Cab)
+## 75) [Rating Improvement](https://github.com/Harshak-1744/code_chef-java/blob/main/Rating%20Improvement)
