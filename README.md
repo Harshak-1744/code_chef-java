@@ -81,3 +81,4 @@
 ## 79) [Instagram](https://github.com/Harshak-1744/code_chef-java/blob/main/Instagram)
 ## 80) [Volume Control](https://github.com/Harshak-1744/code_chef-java/blob/main/Volume%20Control)
 ## 81) [ATM](https://github.com/Harshak-1744/code_chef-java/blob/main/ATM)
+## 82) [Is it hot or cold](https://github.com/Harshak-1744/code_chef-java/blob/main/Is%20it%20hot%20or%20cold)
