@@ -1,0 +1,20 @@
+import java.util.*;
+import java.lang.*;
+import java.io.*;
+
+class Codechef {
+    public static void main(String[] args) throws java.lang.Exception {
+        Scanner sc = new Scanner(System.in);
+        int X = sc.nextInt();
+        int Y = sc.nextInt();
+        int H = sc.nextInt();
+
+        if (H <= 1) {
+            System.out.println(X);
+        } else {
+            int extraHours = H - 1; 
+            int totalCharge = X + (extraHours * Y);
+            System.out.println(totalCharge);
+        }
+    }
+}
