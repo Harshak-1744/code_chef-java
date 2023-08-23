@@ -87,4 +87,4 @@
 ## 85) [Parking Charges](https://github.com/Harshak-1744/code_chef-java/blob/main/Parking%20Charges)
 ## 86) [Parliament](https://github.com/Harshak-1744/code_chef-java/blob/main/Parliament)
 ## 87) [Fill the Bucket](https://github.com/Harshak-1744/code_chef-java/blob/main/Fill%20the%20Bucket)
-## 88) [Find Remainder]()
+## 88) [Find Remainder](https://github.com/Harshak-1744/code_chef-java/blob/main/Find%20Remainder)
