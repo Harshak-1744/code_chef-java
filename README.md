@@ -86,3 +86,4 @@
 ## 84) [Profit Increment](https://github.com/Harshak-1744/code_chef-java/blob/main/Profit%20Increment)
 ## 85) [Parking Charges](https://github.com/Harshak-1744/code_chef-java/blob/main/Parking%20Charges)
 ## 86) [Parliament](https://github.com/Harshak-1744/code_chef-java/blob/main/Parliament)
+## 87) [Fill the Bucket]()
