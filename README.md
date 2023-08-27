@@ -92,3 +92,4 @@
 ## 90) [Ezio and Guards](https://github.com/Harshak-1744/code_chef-java/blob/main/Ezio%20and%20Guards)
 ## 91) [Candy Store](https://github.com/Harshak-1744/code_chef-java/blob/main/Candy%20Store)
 ## 92) [Scalene Triangle](https://github.com/Harshak-1744/code_chef-java/blob/main/Scalene%20Triangle)
+## 93) [Chef and Masks](https://github.com/Harshak-1744/code_chef-java/blob/main/Chef%20and%20Masks)
