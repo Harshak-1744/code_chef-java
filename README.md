@@ -93,3 +93,4 @@
 ## 91) [Candy Store](https://github.com/Harshak-1744/code_chef-java/blob/main/Candy%20Store)
 ## 92) [Scalene Triangle](https://github.com/Harshak-1744/code_chef-java/blob/main/Scalene%20Triangle)
 ## 93) [Chef and Masks](https://github.com/Harshak-1744/code_chef-java/blob/main/Chef%20and%20Masks)
+## 94) [Chef and Instant Noodles](https://github.com/Harshak-1744/code_chef-java/blob/main/Chef%20and%20Instant%20Noodles)
